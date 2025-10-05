@@ -34,5 +34,12 @@
       <pubDate>Sun, 28 Sept 2025 08:38:00 GMT</pubDate>
       <description>Reading 4: Paul Graham</description>
     </item>
+
+     <item>
+      <title>Reading 5</title>
+      <link>https://g3n3s1s-a.github.io/website/posts/reading-5/</link>
+      <pubDate>Sun, 5 Oct 2025 08:33:00 GMT</pubDate>
+      <description>Reading 5: cs backstory</description>
+    </item>
   </channel>
 </rss>
