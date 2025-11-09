@@ -55,5 +55,12 @@
       <pubDate>Sun, 1 Nov 2025 10:09:00 GMT</pubDate>
       <description>Reading 7: bazaar vs cathedral</description>
     </item>
+
+     <item>
+      <title>Reading 8</title>
+      <link>https://g3n3s1s-a.github.io/website/posts/reading-7/</link>
+      <pubDate>Sun, 9 Nov 2025 10:09:00 GMT</pubDate>
+      <description>Reading 8: open source</description>
+    </item>
   </channel>
 </rss>
