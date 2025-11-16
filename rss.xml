@@ -58,9 +58,16 @@
 
      <item>
       <title>Reading 8</title>
-      <link>https://g3n3s1s-a.github.io/website/posts/reading-7/</link>
+      <link>https://g3n3s1s-a.github.io/website/posts/reading-8/</link>
       <pubDate>Sun, 9 Nov 2025 10:09:00 GMT</pubDate>
       <description>Reading 8: open source</description>
+    </item>
+
+     <item>
+      <title>Reading 9</title>
+      <link>https://g3n3s1s-a.github.io/website/posts/reading-9/</link>
+      <pubDate>Sun, 16 Nov 2025 10:09:00 GMT</pubDate>
+      <description>Reading 9: growing up</description>
     </item>
   </channel>
 </rss>
